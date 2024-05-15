@@ -1,4 +1,6 @@
-# Welcome to Jekyll!
+If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -18,7 +20,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: allemain | Software & Cloud Engineering
+title: allemain - software and cloud engineering
 #email: adam@allemain.com
 #description: >- # this means to ignore newlines until "baseurl:"
 #baseurl: "" # the subpath of your site, e.g. /blog
@@ -27,8 +29,11 @@ url: https://allemain.com # the base hostname & protocol for your site, e.g. htt
 
 # Build settings
 theme: minima
+header_pages:
+  - docs/lol/index/md
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.
