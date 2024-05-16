@@ -20,13 +20,13 @@ If you need help with YAML syntax, here are some quick references for you:
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: allemain - software and cloud engineering
+title: ALLEMAIN - Software and Cloud Engineering
 #email: adam@allemain.com
 #description: >- # this means to ignore newlines until "baseurl:"
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: https://allemain.com # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  apotoczek
-
+google_analytics: G-YJB19YDJJ5"
 # Build settings
 theme: minima
 header_pages:

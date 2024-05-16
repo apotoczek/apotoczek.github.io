@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Adam Potoczek
-description: allemain | software and cloud engineering
+description: ALLEMAIN - Software and Cloud Engineering
 layout: home
 ---
 
@@ -12,3 +12,6 @@ As a software engineer and cloud architect, I have over fifteen years of experie
 
 adam [at] allemain.com
 
+<style type="text/css">
+#footer { display: none !important; }
+</style>
