@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /apr$
+Disallow: /docs/lol$
+Disallow: /docs/
