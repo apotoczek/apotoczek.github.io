@@ -1,8 +1,8 @@
-/* File: https://assets.example.com/hero/hero-widget.js */
+/* File: remote hero-widget.js */
 (() => {
   const S = document.currentScript;
-  // const cfgURL = S.dataset.config || 'https://assets.example.com/hero/config.json';
-  const cfgURL = S.dataset.config || 'hero/config.json';
+  const cfgURL = S.dataset.config || 'https://allemain.com/hero/config.json';
+  // const cfgURL = S.dataset.config || 'hero/config.json';
   const mountSel = S.dataset.target; // e.g. "#hero-slot"
   const place = mountSel ? document.querySelector(mountSel) : S.parentNode;
 

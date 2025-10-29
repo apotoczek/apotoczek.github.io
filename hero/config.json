@@ -6,19 +6,19 @@
   "css": "",
   "slides": [
       {
-        "src": "media/slider-100.png",
+        "src": "https://allemain.com/hero/media/slider-100.png",
       "alt": "New fall collection",
       "title": "Fall ’25 Collection",
       "subtitle": "Warm layers. Cooler prices.",
-      "href": "https://site-a.example.com/fall",
+      "href": "https://www.p1finance.com/",
       "cta": "Shop now"
     },
     {
-      "src": "media/slider-100.png",
+      "src": "https://allemain.com/hero/media/slider-200.png",
       "alt": "Event banner",
       "title": "Holiday Pop-Up",
       "subtitle": "NYC • Nov 20–23",
-      "href": "https://site-a.example.com/pop-up",
+      "href": "https://www.p1finance.com/",
       "cta": "RSVP"
     }
   ]
